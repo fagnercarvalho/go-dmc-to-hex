@@ -47,6 +47,16 @@ func (c Converter) GetDMCByHex(hexCode string) string {
 	return ""
 }
 
+func (c Converter) GetColorByDMC(dmcCode string) string {
+	for _, dmc := range c.dmcs {
+		if dmc.DMCCode == dmcCode {
+			return dmc.ColorName
+		}
+	}
+
+	return ""
+}
+
 func parseFile() ([]DMC, error) {
 	var dmcs []DMC
 

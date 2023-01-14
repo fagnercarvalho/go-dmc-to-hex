@@ -9,13 +9,21 @@
         });
 
         function getColorByHex() {
+            let name = getNameByDMC(document.getElementById("dmc").value);
             let hex = getHexByDMC(document.getElementById("dmc").value);
+
             document.body.style.backgroundColor = hex;
+            document.getElementById("name").innerHTML = name;
+            document.getElementById("hex").innerHTML = hex;
         }
     </script>
 </head>
 <body>
 <input id="dmc"/>
 <input type="button" value="Show color" onclick="getColorByHex()"/>
+<br/>
+<span id="name"></span>
+<br/>
+<span id="hex"></span>
 </body>
 </html>
