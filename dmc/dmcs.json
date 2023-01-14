@@ -1,0 +1,2447 @@
+[
+	{
+		"ColorName": "Salmon Very Light",
+		"DMCCode": "3713",
+		"HexCode": "#FFE2E2"
+	},
+	{
+		"ColorName": "Salmon Light",
+		"DMCCode": "761",
+		"HexCode": "#FFC9C9"
+	},
+	{
+		"ColorName": "Salmon",
+		"DMCCode": "760",
+		"HexCode": "#F5ADAD"
+	},
+	{
+		"ColorName": "Salmon Medium",
+		"DMCCode": "3712",
+		"HexCode": "#F18787"
+	},
+	{
+		"ColorName": "Salmon Dark",
+		"DMCCode": "3328",
+		"HexCode": "#E36D6D"
+	},
+	{
+		"ColorName": "Salmon Very Dark",
+		"DMCCode": "347",
+		"HexCode": "#BF2D2D"
+	},
+	{
+		"ColorName": "Peach",
+		"DMCCode": "353",
+		"HexCode": "#FED7CC"
+	},
+	{
+		"ColorName": "Coral Light",
+		"DMCCode": "352",
+		"HexCode": "#FD9C97"
+	},
+	{
+		"ColorName": "Coral",
+		"DMCCode": "351",
+		"HexCode": "#E96A67"
+	},
+	{
+		"ColorName": "Coral Medium",
+		"DMCCode": "350",
+		"HexCode": "#E04848"
+	},
+	{
+		"ColorName": "Coral Dark",
+		"DMCCode": "349",
+		"HexCode": "#D21035"
+	},
+	{
+		"ColorName": "Coral Red Very Dark",
+		"DMCCode": "817",
+		"HexCode": "#BB051F"
+	},
+	{
+		"ColorName": "Melon Light",
+		"DMCCode": "3708",
+		"HexCode": "#FFCBD5"
+	},
+	{
+		"ColorName": "Melon Medium",
+		"DMCCode": "3706",
+		"HexCode": "#FFADBC"
+	},
+	{
+		"ColorName": "Melon Dark",
+		"DMCCode": "3705",
+		"HexCode": "#FF7992"
+	},
+	{
+		"ColorName": "Melon Very Dark",
+		"DMCCode": "3801",
+		"HexCode": "#E74967"
+	},
+	{
+		"ColorName": "Bright Red",
+		"DMCCode": "666",
+		"HexCode": "#E31D42"
+	},
+	{
+		"ColorName": "Red",
+		"DMCCode": "321",
+		"HexCode": "#C72B3B"
+	},
+	{
+		"ColorName": "Red Medium",
+		"DMCCode": "304",
+		"HexCode": "#B71F33"
+	},
+	{
+		"ColorName": "Red Dark",
+		"DMCCode": "498",
+		"HexCode": "#A7132B"
+	},
+	{
+		"ColorName": "Garnet",
+		"DMCCode": "816",
+		"HexCode": "#970B23"
+	},
+	{
+		"ColorName": "Garnet Medium",
+		"DMCCode": "815",
+		"HexCode": "#87071F"
+	},
+	{
+		"ColorName": "Garnet Dark",
+		"DMCCode": "814",
+		"HexCode": "#7B001B"
+	},
+	{
+		"ColorName": "Carnation Very Light",
+		"DMCCode": "894",
+		"HexCode": "#FFB2BB"
+	},
+	{
+		"ColorName": "Carnation Light",
+		"DMCCode": "893",
+		"HexCode": "#FC90A2"
+	},
+	{
+		"ColorName": "Carnation Medium",
+		"DMCCode": "892",
+		"HexCode": "#FF798C"
+	},
+	{
+		"ColorName": "Carnation Dark",
+		"DMCCode": "891",
+		"HexCode": "#FF5773"
+	},
+	{
+		"ColorName": "Baby Pink",
+		"DMCCode": "818",
+		"HexCode": "#FFDFD9"
+	},
+	{
+		"ColorName": "Geranium Pale",
+		"DMCCode": "957",
+		"HexCode": "#FDB5B5"
+	},
+	{
+		"ColorName": "Geranium",
+		"DMCCode": "956",
+		"HexCode": "#FF9191"
+	},
+	{
+		"ColorName": "Rose Dark",
+		"DMCCode": "309",
+		"HexCode": "#BA4A4A"
+	},
+	{
+		"ColorName": "Dusty Rose Ultra Very Light",
+		"DMCCode": "963",
+		"HexCode": "#FFD7D7"
+	},
+	{
+		"ColorName": "Dusty Rose Medium Very Light",
+		"DMCCode": "3716",
+		"HexCode": "#FFBDBD"
+	},
+	{
+		"ColorName": "Dusty Rose Medium",
+		"DMCCode": "962",
+		"HexCode": "#E68A8A"
+	},
+	{
+		"ColorName": "Dusty Rose Dark",
+		"DMCCode": "961",
+		"HexCode": "#CF7373"
+	},
+	{
+		"ColorName": "Raspberry Light",
+		"DMCCode": "3833",
+		"HexCode": "#EA8699"
+	},
+	{
+		"ColorName": "Raspberry Medium",
+		"DMCCode": "3832",
+		"HexCode": "#DB556E"
+	},
+	{
+		"ColorName": "Raspberry Dark",
+		"DMCCode": "3831",
+		"HexCode": "#B32F48"
+	},
+	{
+		"ColorName": "Raspberry Very Dark",
+		"DMCCode": "777",
+		"HexCode": "#913546"
+	},
+	{
+		"ColorName": "Baby Pink Light",
+		"DMCCode": "819",
+		"HexCode": "#FFEEEB"
+	},
+	{
+		"ColorName": "Rose Light",
+		"DMCCode": "3326",
+		"HexCode": "#FBADB4"
+	},
+	{
+		"ColorName": "Pink Medium",
+		"DMCCode": "776",
+		"HexCode": "#FCB0B9"
+	},
+	{
+		"ColorName": "Rose Medium",
+		"DMCCode": "899",
+		"HexCode": "#F27688"
+	},
+	{
+		"ColorName": "Rose",
+		"DMCCode": "335",
+		"HexCode": "#EE546E"
+	},
+	{
+		"ColorName": "Rose Very Dark",
+		"DMCCode": "326",
+		"HexCode": "#B33B4B"
+	},
+	{
+		"ColorName": "Dusty Rose Very Light",
+		"DMCCode": "151",
+		"HexCode": "#F0CED4"
+	},
+	{
+		"ColorName": "Dusty Rose Light",
+		"DMCCode": "3354",
+		"HexCode": "#E4A6AC"
+	},
+	{
+		"ColorName": "Dusty Rose",
+		"DMCCode": "3733",
+		"HexCode": "#E8879B"
+	},
+	{
+		"ColorName": "Dusty Rose Very Dark",
+		"DMCCode": "3731",
+		"HexCode": "#DA6783"
+	},
+	{
+		"ColorName": "Dusty Rose Ultra Dark",
+		"DMCCode": "3350",
+		"HexCode": "#BC4365"
+	},
+	{
+		"ColorName": "Dusty Rose Ultra Very Dark",
+		"DMCCode": "150",
+		"HexCode": "#AB0249"
+	},
+	{
+		"ColorName": "Mauve Light",
+		"DMCCode": "3689",
+		"HexCode": "#FBBFC2"
+	},
+	{
+		"ColorName": "Mauve Medium",
+		"DMCCode": "3688",
+		"HexCode": "#E7A9AC"
+	},
+	{
+		"ColorName": "Mauve",
+		"DMCCode": "3687",
+		"HexCode": "#C96B70"
+	},
+	{
+		"ColorName": "Mauve Dark",
+		"DMCCode": "3803",
+		"HexCode": "#AB3357"
+	},
+	{
+		"ColorName": "Mauve Very Dark",
+		"DMCCode": "3685",
+		"HexCode": "#881531"
+	},
+	{
+		"ColorName": "Cranberry Very Light",
+		"DMCCode": "605",
+		"HexCode": "#FFC0CD"
+	},
+	{
+		"ColorName": "Cranberry Light",
+		"DMCCode": "604",
+		"HexCode": "#FFB0BE"
+	},
+	{
+		"ColorName": "Cranberry",
+		"DMCCode": "603",
+		"HexCode": "#FFA4BE"
+	},
+	{
+		"ColorName": "Cranberry Medium",
+		"DMCCode": "602",
+		"HexCode": "#E24874"
+	},
+	{
+		"ColorName": "Cranberry Dark",
+		"DMCCode": "601",
+		"HexCode": "#D1286A"
+	},
+	{
+		"ColorName": "Cranberry Very Dark",
+		"DMCCode": "600",
+		"HexCode": "#CD2F63"
+	},
+	{
+		"ColorName": "Cyclamen Pink Light",
+		"DMCCode": "3806",
+		"HexCode": "#FF8CAE"
+	},
+	{
+		"ColorName": "Cyclamen Pink",
+		"DMCCode": "3805",
+		"HexCode": "#F3478B"
+	},
+	{
+		"ColorName": "Cyclamen Pink Dark",
+		"DMCCode": "3804",
+		"HexCode": "#E02876"
+	},
+	{
+		"ColorName": "Plum Ultra Light",
+		"DMCCode": "3609",
+		"HexCode": "#F4AED7"
+	},
+	{
+		"ColorName": "Plum Very Light",
+		"DMCCode": "3608",
+		"HexCode": "#EA9CC4"
+	},
+	{
+		"ColorName": "Plum Light",
+		"DMCCode": "3607",
+		"HexCode": "#C54989"
+	},
+	{
+		"ColorName": "Plum",
+		"DMCCode": "718",
+		"HexCode": "#9C2462"
+	},
+	{
+		"ColorName": "Plum Medium",
+		"DMCCode": "917",
+		"HexCode": "#9B1359"
+	},
+	{
+		"ColorName": "Plum Dark",
+		"DMCCode": "915",
+		"HexCode": "#820043"
+	},
+	{
+		"ColorName": "Shell Pink Ultra Very Light",
+		"DMCCode": "225",
+		"HexCode": "#FFDFD7"
+	},
+	{
+		"ColorName": "Shell Pink Very Light",
+		"DMCCode": "224",
+		"HexCode": "#EBB7AF"
+	},
+	{
+		"ColorName": "Shell Pink Medium Light",
+		"DMCCode": "152",
+		"HexCode": "#E2A099"
+	},
+	{
+		"ColorName": "Shell Pink Light",
+		"DMCCode": "223",
+		"HexCode": "#CC847C"
+	},
+	{
+		"ColorName": "Shell Pink Medium",
+		"DMCCode": "3722",
+		"HexCode": "#BC6C64"
+	},
+	{
+		"ColorName": "Shell Pink Dark",
+		"DMCCode": "3721",
+		"HexCode": "#A14B51"
+	},
+	{
+		"ColorName": "Shell Pink Very Dark",
+		"DMCCode": "221",
+		"HexCode": "#883E43"
+	},
+	{
+		"ColorName": "Antique Mauve Very Light",
+		"DMCCode": "778",
+		"HexCode": "#DFB3BB"
+	},
+	{
+		"ColorName": "Antique Mauve Light",
+		"DMCCode": "3727",
+		"HexCode": "#DBA9B2"
+	},
+	{
+		"ColorName": "Antique Mauve Medium",
+		"DMCCode": "316",
+		"HexCode": "#B7737F"
+	},
+	{
+		"ColorName": "Antique Mauve Dark",
+		"DMCCode": "3726",
+		"HexCode": "#9B5B66"
+	},
+	{
+		"ColorName": "Antique Mauve Medium Dark",
+		"DMCCode": "315",
+		"HexCode": "#814952"
+	},
+	{
+		"ColorName": "Antique Mauve Very Darkv",
+		"DMCCode": "3802",
+		"HexCode": "#714149"
+	},
+	{
+		"ColorName": "Garnet Very Dark",
+		"DMCCode": "902",
+		"HexCode": "#822637"
+	},
+	{
+		"ColorName": "Antique Violet Very Light",
+		"DMCCode": "3743",
+		"HexCode": "#D7CBD3"
+	},
+	{
+		"ColorName": "Antique Violet Light",
+		"DMCCode": "3042",
+		"HexCode": "#B79DA7"
+	},
+	{
+		"ColorName": "Antique Violet Medium",
+		"DMCCode": "3041",
+		"HexCode": "#956F7C"
+	},
+	{
+		"ColorName": "Antique Violet Dark",
+		"DMCCode": "3740",
+		"HexCode": "#785762"
+	},
+	{
+		"ColorName": "Grape Light",
+		"DMCCode": "3836",
+		"HexCode": "#BA91AA"
+	},
+	{
+		"ColorName": "Grape Medium",
+		"DMCCode": "3835",
+		"HexCode": "#946083"
+	},
+	{
+		"ColorName": "Grape Dark",
+		"DMCCode": "3834",
+		"HexCode": "#72375D"
+	},
+	{
+		"ColorName": "Grape Very Dark",
+		"DMCCode": "154",
+		"HexCode": "#572433"
+	},
+	{
+		"ColorName": "Lavender Light",
+		"DMCCode": "211",
+		"HexCode": "#E3CBE3"
+	},
+	{
+		"ColorName": "Lavender Medium",
+		"DMCCode": "210",
+		"HexCode": "#D29FC3"
+	},
+	{
+		"ColorName": "Lavender Dark",
+		"DMCCode": "209",
+		"HexCode": "#A37BA7"
+	},
+	{
+		"ColorName": "Lavender Very Dark",
+		"DMCCode": "208",
+		"HexCode": "#835B8B"
+	},
+	{
+		"ColorName": "Lavender Ultra Dark",
+		"DMCCode": "3837",
+		"HexCode": "#6C3A6E"
+	},
+	{
+		"ColorName": "Violet Dark",
+		"DMCCode": "327",
+		"HexCode": "#633666"
+	},
+	{
+		"ColorName": "Violet Very Light",
+		"DMCCode": "153",
+		"HexCode": "#E6CCD9"
+	},
+	{
+		"ColorName": "Violet Light",
+		"DMCCode": "554",
+		"HexCode": "#DBB3CB"
+	},
+	{
+		"ColorName": "Violet",
+		"DMCCode": "553",
+		"HexCode": "#A3638B"
+	},
+	{
+		"ColorName": "Violet  Medium",
+		"DMCCode": "552",
+		"HexCode": "#803A6B"
+	},
+	{
+		"ColorName": "Violet Very Dark",
+		"DMCCode": "550",
+		"HexCode": "#5C184E"
+	},
+	{
+		"ColorName": "Blue Violet Very Light",
+		"DMCCode": "3747",
+		"HexCode": "#D3D7ED"
+	},
+	{
+		"ColorName": "Blue Violet Light",
+		"DMCCode": "341",
+		"HexCode": "#B7BFDD"
+	},
+	{
+		"ColorName": "Blue Violet Medium Light",
+		"DMCCode": "156",
+		"HexCode": "#A3AED1"
+	},
+	{
+		"ColorName": "Blue Violet Medium",
+		"DMCCode": "340",
+		"HexCode": "#ADA7C7"
+	},
+	{
+		"ColorName": "Blue Violet Medium Dark",
+		"DMCCode": "155",
+		"HexCode": "#9891B6"
+	},
+	{
+		"ColorName": "Blue Violet Dark",
+		"DMCCode": "3746",
+		"HexCode": "#776B98"
+	},
+	{
+		"ColorName": "Blue Violet Very Dark",
+		"DMCCode": "333",
+		"HexCode": "#5C5478"
+	},
+	{
+		"ColorName": "Cornflower Blue Very Light",
+		"DMCCode": "157",
+		"HexCode": "#BBC3D9"
+	},
+	{
+		"ColorName": "Cornflower Blue Light",
+		"DMCCode": "794",
+		"HexCode": "#8F9CC1"
+	},
+	{
+		"ColorName": "Cornflower Blue Medium",
+		"DMCCode": "793",
+		"HexCode": "#707DA2"
+	},
+	{
+		"ColorName": "Cornflower Blue",
+		"DMCCode": "3807",
+		"HexCode": "#60678C"
+	},
+	{
+		"ColorName": "Cornflower Blue Dark",
+		"DMCCode": "792",
+		"HexCode": "#555B7B"
+	},
+	{
+		"ColorName": "Cornflower Blue  Very Dark",
+		"DMCCode": "158",
+		"HexCode": "#4C526E"
+	},
+	{
+		"ColorName": "Cornflower Blue Very Dark",
+		"DMCCode": "791",
+		"HexCode": "#464563"
+	},
+	{
+		"ColorName": "Lavender Blue Light",
+		"DMCCode": "3840",
+		"HexCode": "#B0C0DA"
+	},
+	{
+		"ColorName": "Lavender Blue Medium",
+		"DMCCode": "3839",
+		"HexCode": "#7B8EAB"
+	},
+	{
+		"ColorName": "Lavender Blue Dark",
+		"DMCCode": "3838",
+		"HexCode": "#5C7294"
+	},
+	{
+		"ColorName": "Delft Blue Pale",
+		"DMCCode": "800",
+		"HexCode": "#C0CCDE"
+	},
+	{
+		"ColorName": "Delft Blue",
+		"DMCCode": "809",
+		"HexCode": "#94A8C6"
+	},
+	{
+		"ColorName": "Delft Blue Medium",
+		"DMCCode": "799",
+		"HexCode": "#748EB6"
+	},
+	{
+		"ColorName": "Delft Blue Dark",
+		"DMCCode": "798",
+		"HexCode": "#466A8E"
+	},
+	{
+		"ColorName": "Royal Blue",
+		"DMCCode": "797",
+		"HexCode": "#13477D"
+	},
+	{
+		"ColorName": "Royal Blue Dark",
+		"DMCCode": "796",
+		"HexCode": "#11416D"
+	},
+	{
+		"ColorName": "Royal Blue Very Dark",
+		"DMCCode": "820",
+		"HexCode": "#0E365C"
+	},
+	{
+		"ColorName": "Blue Ultra Very Light",
+		"DMCCode": "162",
+		"HexCode": "#DBECF5"
+	},
+	{
+		"ColorName": "Blue Very Light",
+		"DMCCode": "827",
+		"HexCode": "#BDDDED"
+	},
+	{
+		"ColorName": "Blue Light",
+		"DMCCode": "813",
+		"HexCode": "#A1C2D7"
+	},
+	{
+		"ColorName": "Blue Medium",
+		"DMCCode": "826",
+		"HexCode": "#6B9EBF"
+	},
+	{
+		"ColorName": "Blue Dark",
+		"DMCCode": "825",
+		"HexCode": "#4781A5"
+	},
+	{
+		"ColorName": "Blue Very Dark",
+		"DMCCode": "824",
+		"HexCode": "#396987"
+	},
+	{
+		"ColorName": "Electric Blue Medium",
+		"DMCCode": "996",
+		"HexCode": "#30C2EC"
+	},
+	{
+		"ColorName": "Electric Blue",
+		"DMCCode": "3843",
+		"HexCode": "#14AAD0"
+	},
+	{
+		"ColorName": "Electric Blue Dark",
+		"DMCCode": "995",
+		"HexCode": "#2696B6"
+	},
+	{
+		"ColorName": "Turquoise Bright Light",
+		"DMCCode": "3846",
+		"HexCode": "#06E3E6"
+	},
+	{
+		"ColorName": "Turquoise Bright Medium",
+		"DMCCode": "3845",
+		"HexCode": "#04C4CA"
+	},
+	{
+		"ColorName": "Turquoise Bright Dark",
+		"DMCCode": "3844",
+		"HexCode": "#12AEBA"
+	},
+	{
+		"ColorName": "Blue Gray Light",
+		"DMCCode": "159",
+		"HexCode": "#C7CAD7"
+	},
+	{
+		"ColorName": "Blue Gray Medium",
+		"DMCCode": "160",
+		"HexCode": "#999FB7"
+	},
+	{
+		"ColorName": "Blue Gray",
+		"DMCCode": "161",
+		"HexCode": "#7880A4"
+	},
+	{
+		"ColorName": "Baby Blue Ultra Very Light",
+		"DMCCode": "3756",
+		"HexCode": "#EEFCFC"
+	},
+	{
+		"ColorName": "Baby Blue Very Light",
+		"DMCCode": "775",
+		"HexCode": "#D9EBF1"
+	},
+	{
+		"ColorName": "Baby Blue Pale",
+		"DMCCode": "3841",
+		"HexCode": "#CDDFED"
+	},
+	{
+		"ColorName": "Baby Blue Light",
+		"DMCCode": "3325",
+		"HexCode": "#B8D2E6"
+	},
+	{
+		"ColorName": "Baby Blue",
+		"DMCCode": "3755",
+		"HexCode": "#92B4CE"
+	},
+	{
+		"ColorName": "Baby Blue Medium",
+		"DMCCode": "334",
+		"HexCode": "#739FC1"
+	},
+	{
+		"ColorName": "Baby Blue Dark",
+		"DMCCode": "322",
+		"HexCode": "#5A8FB8"
+	},
+	{
+		"ColorName": "Baby Blue Very Dark",
+		"DMCCode": "312",
+		"HexCode": "#35668B"
+	},
+	{
+		"ColorName": "Baby Blue Ultra Very Dark",
+		"DMCCode": "803",
+		"HexCode": "#2C597C"
+	},
+	{
+		"ColorName": "Navy Blue",
+		"DMCCode": "336",
+		"HexCode": "#253B73"
+	},
+	{
+		"ColorName": "Navy Blue Dark",
+		"DMCCode": "823",
+		"HexCode": "#213063"
+	},
+	{
+		"ColorName": "Navy Blue Very Dark",
+		"DMCCode": "939",
+		"HexCode": "#1B2853"
+	},
+	{
+		"ColorName": "Antique Blue Ultra Very Light",
+		"DMCCode": "3753",
+		"HexCode": "#DBE2E9"
+	},
+	{
+		"ColorName": "Antique Blue Very Light",
+		"DMCCode": "3752",
+		"HexCode": "#C7D1DB"
+	},
+	{
+		"ColorName": "Antique Blue Light",
+		"DMCCode": "932",
+		"HexCode": "#A2B5C6"
+	},
+	{
+		"ColorName": "Antique Blue Medium",
+		"DMCCode": "931",
+		"HexCode": "#6A859E"
+	},
+	{
+		"ColorName": "Antique Blue Dark",
+		"DMCCode": "930",
+		"HexCode": "#455C71"
+	},
+	{
+		"ColorName": "Antique Blue Very Dark",
+		"DMCCode": "3750",
+		"HexCode": "#384C5E"
+	},
+	{
+		"ColorName": "Sky Blue Very Light",
+		"DMCCode": "828",
+		"HexCode": "#C5E8ED"
+	},
+	{
+		"ColorName": "Sky Blue Light",
+		"DMCCode": "3761",
+		"HexCode": "#ACD8E2"
+	},
+	{
+		"ColorName": "Sky Blue",
+		"DMCCode": "519",
+		"HexCode": "#7EB1C8"
+	},
+	{
+		"ColorName": "Wedgewood Light",
+		"DMCCode": "518",
+		"HexCode": "#4F93A7"
+	},
+	{
+		"ColorName": "Wedgewood Medium",
+		"DMCCode": "3760",
+		"HexCode": "#3E85A2"
+	},
+	{
+		"ColorName": "Wedgewood Dark",
+		"DMCCode": "517",
+		"HexCode": "#3B768F"
+	},
+	{
+		"ColorName": "Wedgewood Very Dark",
+		"DMCCode": "3842",
+		"HexCode": "#32667C"
+	},
+	{
+		"ColorName": "Wedgewood Ultra Very Dark",
+		"DMCCode": "311",
+		"HexCode": "#1C5066"
+	},
+	{
+		"ColorName": "Peacock Blue Very Light",
+		"DMCCode": "747",
+		"HexCode": "#E5FCFD"
+	},
+	{
+		"ColorName": "Peacock Blue Light",
+		"DMCCode": "3766",
+		"HexCode": "#99CFD9"
+	},
+	{
+		"ColorName": "Peacock Blue",
+		"DMCCode": "807",
+		"HexCode": "#64ABBA"
+	},
+	{
+		"ColorName": "Peacock Blue Dark",
+		"DMCCode": "806",
+		"HexCode": "#3D95A5"
+	},
+	{
+		"ColorName": "Peacock Blue Very Dark",
+		"DMCCode": "3765",
+		"HexCode": "#347F8C"
+	},
+	{
+		"ColorName": "Turquoise Very Light",
+		"DMCCode": "3811",
+		"HexCode": "#BCE3E6"
+	},
+	{
+		"ColorName": "Turquoise Light",
+		"DMCCode": "598",
+		"HexCode": "#90C3CC"
+	},
+	{
+		"ColorName": "Turquoise",
+		"DMCCode": "597",
+		"HexCode": "#5BA3B3"
+	},
+	{
+		"ColorName": "Turquoise Dark",
+		"DMCCode": "3810",
+		"HexCode": "#488E9A"
+	},
+	{
+		"ColorName": "Turquoise Vy Dark",
+		"DMCCode": "3809",
+		"HexCode": "#3F7C85"
+	},
+	{
+		"ColorName": "Turquoise Ultra Very Dark",
+		"DMCCode": "3808",
+		"HexCode": "#366970"
+	},
+	{
+		"ColorName": "Gray Green Very Light",
+		"DMCCode": "928",
+		"HexCode": "#DDE3E3"
+	},
+	{
+		"ColorName": "Gray Green Light",
+		"DMCCode": "927",
+		"HexCode": "#BDCBCB"
+	},
+	{
+		"ColorName": "Gray Green Medium",
+		"DMCCode": "926",
+		"HexCode": "#98AEAE"
+	},
+	{
+		"ColorName": "Gray Green Dark",
+		"DMCCode": "3768",
+		"HexCode": "#657F7F"
+	},
+	{
+		"ColorName": "Gray Green Vy Dark",
+		"DMCCode": "924",
+		"HexCode": "#566A6A"
+	},
+	{
+		"ColorName": "Teal Green Light",
+		"DMCCode": "3849",
+		"HexCode": "#52B3AE"
+	},
+	{
+		"ColorName": "Teal Green Medium",
+		"DMCCode": "3848",
+		"HexCode": "#419392"
+	},
+	{
+		"ColorName": "Teal Green Dark",
+		"DMCCode": "3847",
+		"HexCode": "#347D75"
+	},
+	{
+		"ColorName": "Sea Green Light",
+		"DMCCode": "964",
+		"HexCode": "#A9E2D8"
+	},
+	{
+		"ColorName": "Sea Green Medium",
+		"DMCCode": "959",
+		"HexCode": "#59C7B4"
+	},
+	{
+		"ColorName": "Sea Green Dark",
+		"DMCCode": "958",
+		"HexCode": "#3EB6A1"
+	},
+	{
+		"ColorName": "Sea Green Very Dark",
+		"DMCCode": "3812",
+		"HexCode": "#2F8C84"
+	},
+	{
+		"ColorName": "Green Bright Light",
+		"DMCCode": "3851",
+		"HexCode": "#49B3A1"
+	},
+	{
+		"ColorName": "Green Bright Medium",
+		"DMCCode": "943",
+		"HexCode": "#3D9384"
+	},
+	{
+		"ColorName": "Green Bright Dark",
+		"DMCCode": "3850",
+		"HexCode": "#378477"
+	},
+	{
+		"ColorName": "Aquamarine Very Light",
+		"DMCCode": "993",
+		"HexCode": "#90C0B4"
+	},
+	{
+		"ColorName": "Aquamarine Light",
+		"DMCCode": "992",
+		"HexCode": "#6FAE9F"
+	},
+	{
+		"ColorName": "Aquamarine",
+		"DMCCode": "3814",
+		"HexCode": "#508B7D"
+	},
+	{
+		"ColorName": "Aquamarine Dark",
+		"DMCCode": "991",
+		"HexCode": "#477B6E"
+	},
+	{
+		"ColorName": "Jade Ultra Very Light",
+		"DMCCode": "966",
+		"HexCode": "#B9D7C0"
+	},
+	{
+		"ColorName": "Jade Very Light",
+		"DMCCode": "564",
+		"HexCode": "#A7CDAF"
+	},
+	{
+		"ColorName": "Jade Light",
+		"DMCCode": "563",
+		"HexCode": "#8FC098"
+	},
+	{
+		"ColorName": "Jade Medium",
+		"DMCCode": "562",
+		"HexCode": "#53976A"
+	},
+	{
+		"ColorName": "Jade Green",
+		"DMCCode": "505",
+		"HexCode": "#338362"
+	},
+	{
+		"ColorName": "Celadon Green Light",
+		"DMCCode": "3817",
+		"HexCode": "#99C3AA"
+	},
+	{
+		"ColorName": "Celadon Green",
+		"DMCCode": "3816",
+		"HexCode": "#65A57D"
+	},
+	{
+		"ColorName": "Celadon Green Medium",
+		"DMCCode": "163",
+		"HexCode": "#4D8361"
+	},
+	{
+		"ColorName": "Celadon Green Dark",
+		"DMCCode": "3815",
+		"HexCode": "#477759"
+	},
+	{
+		"ColorName": "Celadon Green VD",
+		"DMCCode": "561",
+		"HexCode": "#2C6A45"
+	},
+	{
+		"ColorName": "Blue Green Very Light",
+		"DMCCode": "504",
+		"HexCode": "#C4DECC"
+	},
+	{
+		"ColorName": "Blue Green Light",
+		"DMCCode": "3813",
+		"HexCode": "#B2D4BD"
+	},
+	{
+		"ColorName": "Blue Green Medium",
+		"DMCCode": "503",
+		"HexCode": "#7BAC94"
+	},
+	{
+		"ColorName": "Blue Green",
+		"DMCCode": "502",
+		"HexCode": "#5B9071"
+	},
+	{
+		"ColorName": "Blue Green Dark",
+		"DMCCode": "501",
+		"HexCode": "#396F52"
+	},
+	{
+		"ColorName": "Blue Green Very Dark",
+		"DMCCode": "500",
+		"HexCode": "#044D33"
+	},
+	{
+		"ColorName": "Nile Green Light",
+		"DMCCode": "955",
+		"HexCode": "#A2D6AD"
+	},
+	{
+		"ColorName": "Nile Green",
+		"DMCCode": "954",
+		"HexCode": "#88BA91"
+	},
+	{
+		"ColorName": "Nile Green Medium",
+		"DMCCode": "913",
+		"HexCode": "#6DAB77"
+	},
+	{
+		"ColorName": "Emerald Green Light",
+		"DMCCode": "912",
+		"HexCode": "#1B9D6B"
+	},
+	{
+		"ColorName": "Emerald Green Medium",
+		"DMCCode": "911",
+		"HexCode": "#189065"
+	},
+	{
+		"ColorName": "Emerald Green Dark",
+		"DMCCode": "910",
+		"HexCode": "#187E56"
+	},
+	{
+		"ColorName": "Emerald Green Very Dark",
+		"DMCCode": "909",
+		"HexCode": "#156F49"
+	},
+	{
+		"ColorName": "Emerald Green Ultra Very Dark",
+		"DMCCode": "3818",
+		"HexCode": "#115A3B"
+	},
+	{
+		"ColorName": "Pistachio Green Very Light",
+		"DMCCode": "369",
+		"HexCode": "#D7EDCC"
+	},
+	{
+		"ColorName": "Pistachio Green Light",
+		"DMCCode": "368",
+		"HexCode": "#A6C298"
+	},
+	{
+		"ColorName": "Pistachio Green Medium",
+		"DMCCode": "320",
+		"HexCode": "#69885A"
+	},
+	{
+		"ColorName": "Pistachio Green Dark",
+		"DMCCode": "367",
+		"HexCode": "#617A52"
+	},
+	{
+		"ColorName": "Pistachio Grn Very Dark",
+		"DMCCode": "319",
+		"HexCode": "#205F2E"
+	},
+	{
+		"ColorName": "Pistachio Grn Ultra Very Dark",
+		"DMCCode": "890",
+		"HexCode": "#184923"
+	},
+	{
+		"ColorName": "Forest Green Light",
+		"DMCCode": "164",
+		"HexCode": "#C8D8B8"
+	},
+	{
+		"ColorName": "Forest Green ",
+		"DMCCode": "989",
+		"HexCode": "#8DA675"
+	},
+	{
+		"ColorName": "Forest Green Medium",
+		"DMCCode": "988",
+		"HexCode": "#738B5B"
+	},
+	{
+		"ColorName": "Forest Green Dark",
+		"DMCCode": "987",
+		"HexCode": "#587141"
+	},
+	{
+		"ColorName": "Forest Green Very Dark",
+		"DMCCode": "986",
+		"HexCode": "#405230"
+	},
+	{
+		"ColorName": "Yellow Green Very Light",
+		"DMCCode": "772",
+		"HexCode": "#E4ECD4"
+	},
+	{
+		"ColorName": "Yellow Green Light",
+		"DMCCode": "3348",
+		"HexCode": "#CCD9B1"
+	},
+	{
+		"ColorName": "Yellow Green Medium",
+		"DMCCode": "3347",
+		"HexCode": "#71935C"
+	},
+	{
+		"ColorName": "Hunter Green",
+		"DMCCode": "3346",
+		"HexCode": "#406A3A"
+	},
+	{
+		"ColorName": "Hunter Green Dark",
+		"DMCCode": "3345",
+		"HexCode": "#1B5915"
+	},
+	{
+		"ColorName": "Hunter Green Very Dark",
+		"DMCCode": "895",
+		"HexCode": "#1B5300"
+	},
+	{
+		"ColorName": "Chartreuse Bright",
+		"DMCCode": "704",
+		"HexCode": "#9ECF34"
+	},
+	{
+		"ColorName": "Chartreuse",
+		"DMCCode": "703",
+		"HexCode": "#7BB547"
+	},
+	{
+		"ColorName": "Kelly Green",
+		"DMCCode": "702",
+		"HexCode": "#47A72F"
+	},
+	{
+		"ColorName": "Green Light",
+		"DMCCode": "701",
+		"HexCode": "#3F8F29"
+	},
+	{
+		"ColorName": "Green Bright",
+		"DMCCode": "700",
+		"HexCode": "#07731B"
+	},
+	{
+		"ColorName": "Green",
+		"DMCCode": "699",
+		"HexCode": "#056517"
+	},
+	{
+		"ColorName": "Parrot Green Light",
+		"DMCCode": "907",
+		"HexCode": "#C7E666"
+	},
+	{
+		"ColorName": "Parrot Green Medium",
+		"DMCCode": "906",
+		"HexCode": "#7FB335"
+	},
+	{
+		"ColorName": "Parrot Green Dark",
+		"DMCCode": "905",
+		"HexCode": "#628A28"
+	},
+	{
+		"ColorName": "Parrot Green Very Dark",
+		"DMCCode": "904",
+		"HexCode": "#557822"
+	},
+	{
+		"ColorName": "Avocado Green Ultra Light",
+		"DMCCode": "472",
+		"HexCode": "#D8E498"
+	},
+	{
+		"ColorName": "Avocado Grn Very Light",
+		"DMCCode": "471",
+		"HexCode": "#AEBF79"
+	},
+	{
+		"ColorName": "Avocado Grn Light",
+		"DMCCode": "470",
+		"HexCode": "#94AB4F"
+	},
+	{
+		"ColorName": "Avocado Green",
+		"DMCCode": "469",
+		"HexCode": "#72843C"
+	},
+	{
+		"ColorName": "Avocado Green Medium",
+		"DMCCode": "937",
+		"HexCode": "#627133"
+	},
+	{
+		"ColorName": "Avocado Green Very Dark",
+		"DMCCode": "936",
+		"HexCode": "#4C5826"
+	},
+	{
+		"ColorName": "Avocado Green Dark",
+		"DMCCode": "935",
+		"HexCode": "#424D21"
+	},
+	{
+		"ColorName": "Avocado Grn Black",
+		"DMCCode": "934",
+		"HexCode": "#313919"
+	},
+	{
+		"ColorName": "Fern Green Light",
+		"DMCCode": "523",
+		"HexCode": "#ABB197"
+	},
+	{
+		"ColorName": "Green Gray",
+		"DMCCode": "3053",
+		"HexCode": "#9CA482"
+	},
+	{
+		"ColorName": "Green Gray Medium",
+		"DMCCode": "3052",
+		"HexCode": "#889268"
+	},
+	{
+		"ColorName": "Green Gray Dark",
+		"DMCCode": "3051",
+		"HexCode": "#5F6648"
+	},
+	{
+		"ColorName": "Fern Green Very Light",
+		"DMCCode": "524",
+		"HexCode": "#C4CDAC"
+	},
+	{
+		"ColorName": "Fern Green",
+		"DMCCode": "522",
+		"HexCode": "#969E7E"
+	},
+	{
+		"ColorName": "Fern Green Dark",
+		"DMCCode": "520",
+		"HexCode": "#666D4F"
+	},
+	{
+		"ColorName": "Pine Green",
+		"DMCCode": "3364",
+		"HexCode": "#83975F"
+	},
+	{
+		"ColorName": "Pine Green Medium",
+		"DMCCode": "3363",
+		"HexCode": "#728256"
+	},
+	{
+		"ColorName": "Pine Green Dark",
+		"DMCCode": "3362",
+		"HexCode": "#5E6B47"
+	},
+	{
+		"ColorName": "Moss Green Very Light",
+		"DMCCode": "165",
+		"HexCode": "#EFF4A4"
+	},
+	{
+		"ColorName": "Moss Green Light",
+		"DMCCode": "3819",
+		"HexCode": "#E0E868"
+	},
+	{
+		"ColorName": "Moss Green Medium Light",
+		"DMCCode": "166",
+		"HexCode": "#C0C840"
+	},
+	{
+		"ColorName": "Moss Green",
+		"DMCCode": "581",
+		"HexCode": "#A7AE38"
+	},
+	{
+		"ColorName": "Moss Green Dark",
+		"DMCCode": "580",
+		"HexCode": "#888D33"
+	},
+	{
+		"ColorName": "Olive Green Light",
+		"DMCCode": "734",
+		"HexCode": "#C7C077"
+	},
+	{
+		"ColorName": "Olive Green Medium",
+		"DMCCode": "733",
+		"HexCode": "#BCB34C"
+	},
+	{
+		"ColorName": "Olive Green",
+		"DMCCode": "732",
+		"HexCode": "#948C36"
+	},
+	{
+		"ColorName": "Olive Green Dark",
+		"DMCCode": "731",
+		"HexCode": "#938B37"
+	},
+	{
+		"ColorName": "Olive Green Very Dark",
+		"DMCCode": "730",
+		"HexCode": "#827B30"
+	},
+	{
+		"ColorName": "Khaki Green Light",
+		"DMCCode": "3013",
+		"HexCode": "#B9B982"
+	},
+	{
+		"ColorName": "Khaki Green Medium",
+		"DMCCode": "3012",
+		"HexCode": "#A6A75D"
+	},
+	{
+		"ColorName": "Khaki Green Dark",
+		"DMCCode": "3011",
+		"HexCode": "#898A58"
+	},
+	{
+		"ColorName": "Mustard Light",
+		"DMCCode": "372",
+		"HexCode": "#CCB784"
+	},
+	{
+		"ColorName": "Mustard",
+		"DMCCode": "371",
+		"HexCode": "#BFA671"
+	},
+	{
+		"ColorName": "Mustard Medium",
+		"DMCCode": "370",
+		"HexCode": "#B89D64"
+	},
+	{
+		"ColorName": "Golden Olive Very Light",
+		"DMCCode": "834",
+		"HexCode": "#DBBE7F"
+	},
+	{
+		"ColorName": "Golden Olive Light",
+		"DMCCode": "833",
+		"HexCode": "#C8AB6C"
+	},
+	{
+		"ColorName": "Golden Olive",
+		"DMCCode": "832",
+		"HexCode": "#BD9B51"
+	},
+	{
+		"ColorName": "Golden Olive Medium",
+		"DMCCode": "831",
+		"HexCode": "#AA8F56"
+	},
+	{
+		"ColorName": "Golden Olive Dark",
+		"DMCCode": "830",
+		"HexCode": "#8D784B"
+	},
+	{
+		"ColorName": "Golden Olive Very Dark",
+		"DMCCode": "829",
+		"HexCode": "#7E6B42"
+	},
+	{
+		"ColorName": "Drab Brown Very Light",
+		"DMCCode": "613",
+		"HexCode": "#DCC4AA"
+	},
+	{
+		"ColorName": "Drab Brown Light",
+		"DMCCode": "612",
+		"HexCode": "#BC9A78"
+	},
+	{
+		"ColorName": "Drab Brown",
+		"DMCCode": "611",
+		"HexCode": "#967656"
+	},
+	{
+		"ColorName": "Drab Brown Dark",
+		"DMCCode": "610",
+		"HexCode": "#796047"
+	},
+	{
+		"ColorName": "Yellow Beige Light",
+		"DMCCode": "3047",
+		"HexCode": "#E7D6C1"
+	},
+	{
+		"ColorName": "Yellow Beige Medium",
+		"DMCCode": "3046",
+		"HexCode": "#D8BC9A"
+	},
+	{
+		"ColorName": "Yellow Beige Dark",
+		"DMCCode": "3045",
+		"HexCode": "#BC966A"
+	},
+	{
+		"ColorName": "Yellow Beige Very Dark",
+		"DMCCode": "167",
+		"HexCode": "#A77C49"
+	},
+	{
+		"ColorName": "Off White",
+		"DMCCode": "746",
+		"HexCode": "#FCFCEE"
+	},
+	{
+		"ColorName": "Old Gold Very Light",
+		"DMCCode": "677",
+		"HexCode": "#F5ECCB"
+	},
+	{
+		"ColorName": "Hazelnut Brown Light",
+		"DMCCode": "422",
+		"HexCode": "#C69F7B"
+	},
+	{
+		"ColorName": "Hazelnut Brown",
+		"DMCCode": "3828",
+		"HexCode": "#B78B61"
+	},
+	{
+		"ColorName": "Hazelnut Brown Dark",
+		"DMCCode": "420",
+		"HexCode": "#A07042"
+	},
+	{
+		"ColorName": "Hazelnut Brown Very Dark",
+		"DMCCode": "869",
+		"HexCode": "#835E39"
+	},
+	{
+		"ColorName": "Topaz",
+		"DMCCode": "728",
+		"HexCode": "#E4B468"
+	},
+	{
+		"ColorName": "Topaz Medium",
+		"DMCCode": "783",
+		"HexCode": "#CE9124"
+	},
+	{
+		"ColorName": "Topaz Dark",
+		"DMCCode": "782",
+		"HexCode": "#AE7720"
+	},
+	{
+		"ColorName": "Topaz Very Dark",
+		"DMCCode": "781",
+		"HexCode": "#A26D20"
+	},
+	{
+		"ColorName": "Topaz Ultra Very Dark",
+		"DMCCode": "780",
+		"HexCode": "#94631A"
+	},
+	{
+		"ColorName": "Old Gold Light",
+		"DMCCode": "676",
+		"HexCode": "#E5CE97"
+	},
+	{
+		"ColorName": "Old Gold Medium",
+		"DMCCode": "729",
+		"HexCode": "#D0A53E"
+	},
+	{
+		"ColorName": "Old Gold Dark",
+		"DMCCode": "680",
+		"HexCode": "#BC8D0E"
+	},
+	{
+		"ColorName": "Old Gold Vy Dark",
+		"DMCCode": "3829",
+		"HexCode": "#A98204"
+	},
+	{
+		"ColorName": "Straw Light",
+		"DMCCode": "3822",
+		"HexCode": "#F6DC98"
+	},
+	{
+		"ColorName": "Straw",
+		"DMCCode": "3821",
+		"HexCode": "#F3CE75"
+	},
+	{
+		"ColorName": "Straw Dark",
+		"DMCCode": "3820",
+		"HexCode": "#DFB65F"
+	},
+	{
+		"ColorName": "Straw Very Dark",
+		"DMCCode": "3852",
+		"HexCode": "#CD9D37"
+	},
+	{
+		"ColorName": "Lemon Light",
+		"DMCCode": "445",
+		"HexCode": "#FFFB8B"
+	},
+	{
+		"ColorName": "Lemon",
+		"DMCCode": "307",
+		"HexCode": "#FDED54"
+	},
+	{
+		"ColorName": "Canary Bright",
+		"DMCCode": "973",
+		"HexCode": "#FFE300"
+	},
+	{
+		"ColorName": "Lemon Dark",
+		"DMCCode": "444",
+		"HexCode": "#FFD600"
+	},
+	{
+		"ColorName": "Golden Yellow Very Light",
+		"DMCCode": "3078",
+		"HexCode": "#FDF9CD"
+	},
+	{
+		"ColorName": "Topaz Very Light",
+		"DMCCode": "727",
+		"HexCode": "#FFF1AF"
+	},
+	{
+		"ColorName": "Topaz Light",
+		"DMCCode": "726",
+		"HexCode": "#FDD755"
+	},
+	{
+		"ColorName": "Topaz Medium Light",
+		"DMCCode": "725",
+		"HexCode": "#FFC840"
+	},
+	{
+		"ColorName": "Canary Deep",
+		"DMCCode": "972",
+		"HexCode": "#FFB515"
+	},
+	{
+		"ColorName": "Yellow Pale Light",
+		"DMCCode": "745",
+		"HexCode": "#FFE9AD"
+	},
+	{
+		"ColorName": "Yellow Pale",
+		"DMCCode": "744",
+		"HexCode": "#FFE793"
+	},
+	{
+		"ColorName": "Yellow Medium",
+		"DMCCode": "743",
+		"HexCode": "#FED376"
+	},
+	{
+		"ColorName": "Tangerine Light",
+		"DMCCode": "742",
+		"HexCode": "#FFBF57"
+	},
+	{
+		"ColorName": "Tangerine Medium",
+		"DMCCode": "741",
+		"HexCode": "#FFA32B"
+	},
+	{
+		"ColorName": "Tangerine",
+		"DMCCode": "740",
+		"HexCode": "#FF8B00"
+	},
+	{
+		"ColorName": "Pumpkin Light",
+		"DMCCode": "970",
+		"HexCode": "#F78B13"
+	},
+	{
+		"ColorName": "Pumpkin",
+		"DMCCode": "971",
+		"HexCode": "#F67F00"
+	},
+	{
+		"ColorName": "Burnt Orange",
+		"DMCCode": "947",
+		"HexCode": "#FF7B4D"
+	},
+	{
+		"ColorName": "Burnt Orange Medium",
+		"DMCCode": "946",
+		"HexCode": "#EB6307"
+	},
+	{
+		"ColorName": "Burnt Orange Dark",
+		"DMCCode": "900",
+		"HexCode": "#D15807"
+	},
+	{
+		"ColorName": "Apricot Very Light",
+		"DMCCode": "967",
+		"HexCode": "#FFDED5"
+	},
+	{
+		"ColorName": "Apricot Light",
+		"DMCCode": "3824",
+		"HexCode": "#FECDC2"
+	},
+	{
+		"ColorName": "Apricot",
+		"DMCCode": "3341",
+		"HexCode": "#FCAB98"
+	},
+	{
+		"ColorName": "Apricot Medium",
+		"DMCCode": "3340",
+		"HexCode": "#FF836F"
+	},
+	{
+		"ColorName": "Burnt Orange Bright",
+		"DMCCode": "608",
+		"HexCode": "#FD5D35"
+	},
+	{
+		"ColorName": "Orange Red Bright",
+		"DMCCode": "606",
+		"HexCode": "#FA3203"
+	},
+	{
+		"ColorName": "Tawny Light",
+		"DMCCode": "951",
+		"HexCode": "#FFE2CF"
+	},
+	{
+		"ColorName": "Mahogany Ultra Very Light",
+		"DMCCode": "3856",
+		"HexCode": "#FFD3B5"
+	},
+	{
+		"ColorName": "Orange Spice Light",
+		"DMCCode": "722",
+		"HexCode": "#F7976F"
+	},
+	{
+		"ColorName": "Orange Spice Medium",
+		"DMCCode": "721",
+		"HexCode": "#F27842"
+	},
+	{
+		"ColorName": "Orange Spice Dark",
+		"DMCCode": "720",
+		"HexCode": "#E55C1F"
+	},
+	{
+		"ColorName": "Pumpkin Pale",
+		"DMCCode": "3825",
+		"HexCode": "#FDBD96"
+	},
+	{
+		"ColorName": "Copper Light",
+		"DMCCode": "922",
+		"HexCode": "#E27323"
+	},
+	{
+		"ColorName": "Copper",
+		"DMCCode": "921",
+		"HexCode": "#C66218"
+	},
+	{
+		"ColorName": "Copper Medium",
+		"DMCCode": "920",
+		"HexCode": "#AC5414"
+	},
+	{
+		"ColorName": "Red Copper",
+		"DMCCode": "919",
+		"HexCode": "#A64510"
+	},
+	{
+		"ColorName": "Red Copper Dark",
+		"DMCCode": "918",
+		"HexCode": "#82340A"
+	},
+	{
+		"ColorName": "Tawny Vy Light",
+		"DMCCode": "3770",
+		"HexCode": "#FFEEE3"
+	},
+	{
+		"ColorName": "Tawny",
+		"DMCCode": "945",
+		"HexCode": "#FBD5BB"
+	},
+	{
+		"ColorName": "Mahogany Very Light",
+		"DMCCode": "402",
+		"HexCode": "#F7A777"
+	},
+	{
+		"ColorName": "Mahogany Light",
+		"DMCCode": "3776",
+		"HexCode": "#CF7939"
+	},
+	{
+		"ColorName": "Mahogany Medium",
+		"DMCCode": "301",
+		"HexCode": "#B35F2B"
+	},
+	{
+		"ColorName": "Mahogany Dark",
+		"DMCCode": "400",
+		"HexCode": "#8F430F"
+	},
+	{
+		"ColorName": "Mahogany Very Dark",
+		"DMCCode": "300",
+		"HexCode": "#6F2F00"
+	},
+	{
+		"ColorName": "Yellow Ultra Pale",
+		"DMCCode": "3823",
+		"HexCode": "#FFFDE3"
+	},
+	{
+		"ColorName": "Autumn Gold Light",
+		"DMCCode": "3855",
+		"HexCode": "#FAD396"
+	},
+	{
+		"ColorName": "Autumn Gold Medium",
+		"DMCCode": "3854",
+		"HexCode": "#F2AF68"
+	},
+	{
+		"ColorName": "Autumn Gold Dark",
+		"DMCCode": "3853",
+		"HexCode": "#F29746"
+	},
+	{
+		"ColorName": "Golden Brown Pale",
+		"DMCCode": "3827",
+		"HexCode": "#F7BB77"
+	},
+	{
+		"ColorName": "Golden Brown Light",
+		"DMCCode": "977",
+		"HexCode": "#DC9C56"
+	},
+	{
+		"ColorName": "Golden Brown Medium",
+		"DMCCode": "976",
+		"HexCode": "#C28142"
+	},
+	{
+		"ColorName": "Golden Brown",
+		"DMCCode": "3826",
+		"HexCode": "#AD7239"
+	},
+	{
+		"ColorName": "Golden Brown Dark",
+		"DMCCode": "975",
+		"HexCode": "#914F12"
+	},
+	{
+		"ColorName": "Peach Very Light",
+		"DMCCode": "948",
+		"HexCode": "#FEE7DA"
+	},
+	{
+		"ColorName": "Peach Light",
+		"DMCCode": "754",
+		"HexCode": "#F7CBBF"
+	},
+	{
+		"ColorName": "Terra Cotta Ultra Very Light",
+		"DMCCode": "3771",
+		"HexCode": "#F4BBA9"
+	},
+	{
+		"ColorName": "Terra Cotta Very Light",
+		"DMCCode": "758",
+		"HexCode": "#EEAA9B"
+	},
+	{
+		"ColorName": "Terra Cotta Light",
+		"DMCCode": "3778",
+		"HexCode": "#D98978"
+	},
+	{
+		"ColorName": "Terra Cotta Medium",
+		"DMCCode": "356",
+		"HexCode": "#C56A5B"
+	},
+	{
+		"ColorName": "Terra Cotta",
+		"DMCCode": "3830",
+		"HexCode": "#BC5544"
+	},
+	{
+		"ColorName": "Terra Cotta Dark",
+		"DMCCode": "355",
+		"HexCode": "#984436"
+	},
+	{
+		"ColorName": "Terra Cotta Very Dark",
+		"DMCCode": "3777",
+		"HexCode": "#863022"
+	},
+	{
+		"ColorName": "Rosewood Ultra Very Light",
+		"DMCCode": "3779",
+		"HexCode": "#F8CAC8"
+	},
+	{
+		"ColorName": "Rosewood Light",
+		"DMCCode": "3859",
+		"HexCode": "#BA8B7C"
+	},
+	{
+		"ColorName": "Rosewood Medium",
+		"DMCCode": "3858",
+		"HexCode": "#964A3F"
+	},
+	{
+		"ColorName": "Rosewood Dark",
+		"DMCCode": "3857",
+		"HexCode": "#68251A"
+	},
+	{
+		"ColorName": "Desert Sand Very Light",
+		"DMCCode": "3774",
+		"HexCode": "#F3E1D7"
+	},
+	{
+		"ColorName": "Desert Sand Light",
+		"DMCCode": "950",
+		"HexCode": "#EED3C4"
+	},
+	{
+		"ColorName": "Desert Sand",
+		"DMCCode": "3064",
+		"HexCode": "#C48E70"
+	},
+	{
+		"ColorName": "Desert Sand Medium",
+		"DMCCode": "407",
+		"HexCode": "#BB8161"
+	},
+	{
+		"ColorName": "Desert Sand Dark",
+		"DMCCode": "3773",
+		"HexCode": "#B67552"
+	},
+	{
+		"ColorName": "Desert Sand Very Dark",
+		"DMCCode": "3772",
+		"HexCode": "#A06C50"
+	},
+	{
+		"ColorName": "Desert Sand Ultra Very Dark",
+		"DMCCode": "632",
+		"HexCode": "#875539"
+	},
+	{
+		"ColorName": "Shell Gray Light",
+		"DMCCode": "453",
+		"HexCode": "#D7CECB"
+	},
+	{
+		"ColorName": "Shell Gray Medium",
+		"DMCCode": "452",
+		"HexCode": "#C0B3AE"
+	},
+	{
+		"ColorName": "Shell Gray Dark",
+		"DMCCode": "451",
+		"HexCode": "#917B73"
+	},
+	{
+		"ColorName": "Cocoa Light",
+		"DMCCode": "3861",
+		"HexCode": "#A68881"
+	},
+	{
+		"ColorName": "Cocoa",
+		"DMCCode": "3860",
+		"HexCode": "#7D5D57"
+	},
+	{
+		"ColorName": "Cocoa Dark",
+		"DMCCode": "779",
+		"HexCode": "#624B45"
+	},
+	{
+		"ColorName": "Cream",
+		"DMCCode": "712",
+		"HexCode": "#FFFBEF"
+	},
+	{
+		"ColorName": "Tan Ultra Very Light",
+		"DMCCode": "739",
+		"HexCode": "#F8E4C8"
+	},
+	{
+		"ColorName": "Tan Very Light",
+		"DMCCode": "738",
+		"HexCode": "#ECCC9E"
+	},
+	{
+		"ColorName": "Tan Light",
+		"DMCCode": "437",
+		"HexCode": "#E4BB8E"
+	},
+	{
+		"ColorName": "Tan",
+		"DMCCode": "436",
+		"HexCode": "#CB9051"
+	},
+	{
+		"ColorName": "Brown Very Light",
+		"DMCCode": "435",
+		"HexCode": "#B87748"
+	},
+	{
+		"ColorName": "Brown Light",
+		"DMCCode": "434",
+		"HexCode": "#985E33"
+	},
+	{
+		"ColorName": "Brown Medium",
+		"DMCCode": "433",
+		"HexCode": "#7A451F"
+	},
+	{
+		"ColorName": "Coffee Brown Dark",
+		"DMCCode": "801",
+		"HexCode": "#653919"
+	},
+	{
+		"ColorName": "Coffee Brown Very Dark",
+		"DMCCode": "898",
+		"HexCode": "#492A13"
+	},
+	{
+		"ColorName": "Coffee Brown Ultra Dark",
+		"DMCCode": "938",
+		"HexCode": "#361F0E"
+	},
+	{
+		"ColorName": "Black Brown",
+		"DMCCode": "3371",
+		"HexCode": "#1E1108"
+	},
+	{
+		"ColorName": "Beige Brown Ultra Very Light",
+		"DMCCode": "543",
+		"HexCode": "#F2E3CE"
+	},
+	{
+		"ColorName": "Mocha Beige Light",
+		"DMCCode": "3864",
+		"HexCode": "#CBB69C"
+	},
+	{
+		"ColorName": "Mocha Beige Medium",
+		"DMCCode": "3863",
+		"HexCode": "#A4835C"
+	},
+	{
+		"ColorName": "Mocha Beige Dark",
+		"DMCCode": "3862",
+		"HexCode": "#8A6E4E"
+	},
+	{
+		"ColorName": "Mocha Brown Very Dark",
+		"DMCCode": "3031",
+		"HexCode": "#4B3C2A"
+	},
+	{
+		"ColorName": "Snow White",
+		"DMCCode": "B5200",
+		"HexCode": "#FFFFFF"
+	},
+	{
+		"ColorName": "White",
+		"DMCCode": "White",
+		"HexCode": "#FCFBF8"
+	},
+	{
+		"ColorName": "Winter White",
+		"DMCCode": "3865",
+		"HexCode": "#F9F7F1"
+	},
+	{
+		"ColorName": "Ecru",
+		"DMCCode": "Ecru",
+		"HexCode": "#F0EADA"
+	},
+	{
+		"ColorName": "Beige Gray Light",
+		"DMCCode": "822",
+		"HexCode": "#E7E2D3"
+	},
+	{
+		"ColorName": "Beige Gray Medium",
+		"DMCCode": "644",
+		"HexCode": "#DDD8CB"
+	},
+	{
+		"ColorName": "Beige Gray Dark",
+		"DMCCode": "642",
+		"HexCode": "#A49878"
+	},
+	{
+		"ColorName": "Beige Gray Very Dark",
+		"DMCCode": "640",
+		"HexCode": "#857B61"
+	},
+	{
+		"ColorName": "Brown Gray Dark",
+		"DMCCode": "3787",
+		"HexCode": "#625D50"
+	},
+	{
+		"ColorName": "Brown Gray Very Dark",
+		"DMCCode": "3021",
+		"HexCode": "#4F4B41"
+	},
+	{
+		"ColorName": "Brown Gray Very Light",
+		"DMCCode": "3024",
+		"HexCode": "#EBEAE7"
+	},
+	{
+		"ColorName": "Brown Gray Light",
+		"DMCCode": "3023",
+		"HexCode": "#B1AA97"
+	},
+	{
+		"ColorName": "Brown Gray Medium",
+		"DMCCode": "3022",
+		"HexCode": "#8E9078"
+	},
+	{
+		"ColorName": "Ash Gray Very Light",
+		"DMCCode": "535",
+		"HexCode": "#636458"
+	},
+	{
+		"ColorName": "Mocha Brown Very Light",
+		"DMCCode": "3033",
+		"HexCode": "#E3D8CC"
+	},
+	{
+		"ColorName": "Mocha Brown Light",
+		"DMCCode": "3782",
+		"HexCode": "#D2BCA6"
+	},
+	{
+		"ColorName": "Mocha Brown Medium",
+		"DMCCode": "3032",
+		"HexCode": "#B39F8B"
+	},
+	{
+		"ColorName": "Beige Gray Ultra Dark",
+		"DMCCode": "3790",
+		"HexCode": "#7F6A55"
+	},
+	{
+		"ColorName": "Mocha Brown Dark",
+		"DMCCode": "3781",
+		"HexCode": "#6B5743"
+	},
+	{
+		"ColorName": "Mocha Brown Ultra Very Light",
+		"DMCCode": "3866",
+		"HexCode": "#FAF6F0"
+	},
+	{
+		"ColorName": "Beige Brown Very Light",
+		"DMCCode": "842",
+		"HexCode": "#D1BAA1"
+	},
+	{
+		"ColorName": "Beige Brown Light",
+		"DMCCode": "841",
+		"HexCode": "#B69B7E"
+	},
+	{
+		"ColorName": "Beige Brown Medium",
+		"DMCCode": "840",
+		"HexCode": "#9A7C5C"
+	},
+	{
+		"ColorName": "Beige Brown Dark",
+		"DMCCode": "839",
+		"HexCode": "#675541"
+	},
+	{
+		"ColorName": "Beige Brown Very Dark",
+		"DMCCode": "838",
+		"HexCode": "#594937"
+	},
+	{
+		"ColorName": "Beaver Gray Very Light",
+		"DMCCode": "3072",
+		"HexCode": "#E6E8E8"
+	},
+	{
+		"ColorName": "Beaver Gray Light",
+		"DMCCode": "648",
+		"HexCode": "#BCB4AC"
+	},
+	{
+		"ColorName": "Beaver Gray Medium",
+		"DMCCode": "647",
+		"HexCode": "#B0A69C"
+	},
+	{
+		"ColorName": "Beaver Gray Dark",
+		"DMCCode": "646",
+		"HexCode": "#877D73"
+	},
+	{
+		"ColorName": "Beaver Gray Very Dark",
+		"DMCCode": "645",
+		"HexCode": "#6E655C"
+	},
+	{
+		"ColorName": "Beaver Gray Ultra Dark",
+		"DMCCode": "844",
+		"HexCode": "#484848"
+	},
+	{
+		"ColorName": "Pearl Gray Very Light",
+		"DMCCode": "762",
+		"HexCode": "#ECECEC"
+	},
+	{
+		"ColorName": "Pearl Gray",
+		"DMCCode": "415",
+		"HexCode": "#D3D3D6"
+	},
+	{
+		"ColorName": "Steel Gray Light",
+		"DMCCode": "318",
+		"HexCode": "#ABABAB"
+	},
+	{
+		"ColorName": "Steel Gray Dark",
+		"DMCCode": "414",
+		"HexCode": "#8C8C8C"
+	},
+	{
+		"ColorName": "Pewter Very Light",
+		"DMCCode": "168",
+		"HexCode": "#D1D1D1"
+	},
+	{
+		"ColorName": "Pewter Light",
+		"DMCCode": "169",
+		"HexCode": "#848484"
+	},
+	{
+		"ColorName": "Pewter Gray",
+		"DMCCode": "317",
+		"HexCode": "#6C6C6C"
+	},
+	{
+		"ColorName": "Pewter Gray Dark",
+		"DMCCode": "413",
+		"HexCode": "#565656"
+	},
+	{
+		"ColorName": "Pewter Gray Very Dark",
+		"DMCCode": "3799",
+		"HexCode": "#424242"
+	},
+	{
+		"ColorName": "Black",
+		"DMCCode": "310",
+		"HexCode": "#000000"
+	},
+	{
+		"ColorName": "White Tin",
+		"DMCCode": "01",
+		"HexCode": "#E3E3E6"
+	},
+	{
+		"ColorName": "Tin",
+		"DMCCode": "02",
+		"HexCode": "#D7D7D8"
+	},
+	{
+		"ColorName": "Tin Medium",
+		"DMCCode": "03",
+		"HexCode": "#B8B8BB"
+	},
+	{
+		"ColorName": "Tin Dark",
+		"DMCCode": "04",
+		"HexCode": "#AEAEB1"
+	},
+	{
+		"ColorName": "Driftwood Light",
+		"DMCCode": "05",
+		"HexCode": "#E3CCBE"
+	},
+	{
+		"ColorName": "Driftwood Medium Light",
+		"DMCCode": "06",
+		"HexCode": "#DCC6B8"
+	},
+	{
+		"ColorName": "Driftwood",
+		"DMCCode": "07",
+		"HexCode": "#8F7B6E"
+	},
+	{
+		"ColorName": "Driftwood Dark",
+		"DMCCode": "08",
+		"HexCode": "#6A5046"
+	},
+	{
+		"ColorName": "Cocoa Very Dark",
+		"DMCCode": "09",
+		"HexCode": "#552014"
+	},
+	{
+		"ColorName": "Tender Green Very Light",
+		"DMCCode": "10",
+		"HexCode": "#EDFED9"
+	},
+	{
+		"ColorName": "Tender Green Light",
+		"DMCCode": "11",
+		"HexCode": "#E2EDB5"
+	},
+	{
+		"ColorName": "Tender Green",
+		"DMCCode": "12",
+		"HexCode": "#CDD99A"
+	},
+	{
+		"ColorName": "Nile Green Medium Light",
+		"DMCCode": "13",
+		"HexCode": "#BFF6E0"
+	},
+	{
+		"ColorName": "Apple Green Pale",
+		"DMCCode": "14",
+		"HexCode": "#D0FBB2"
+	},
+	{
+		"ColorName": "Apple Green",
+		"DMCCode": "15",
+		"HexCode": "#D1EDA4"
+	},
+	{
+		"ColorName": "Chartreuse Light",
+		"DMCCode": "16",
+		"HexCode": "#C9C258"
+	},
+	{
+		"ColorName": "Yellow Plum Light",
+		"DMCCode": "17",
+		"HexCode": "#E5E272"
+	},
+	{
+		"ColorName": "Yellow Plum",
+		"DMCCode": "18",
+		"HexCode": "#D9D56D"
+	},
+	{
+		"ColorName": "Autumn Gold medium Light",
+		"DMCCode": "19",
+		"HexCode": "#F7C95F"
+	},
+	{
+		"ColorName": "Shrimp",
+		"DMCCode": "20",
+		"HexCode": "#F7AF93"
+	},
+	{
+		"ColorName": "Alizarin Light",
+		"DMCCode": "21",
+		"HexCode": "#D79982"
+	},
+	{
+		"ColorName": "Alizarin",
+		"DMCCode": "22",
+		"HexCode": "#BC604E"
+	},
+	{
+		"ColorName": "Apple Blossom",
+		"DMCCode": "23",
+		"HexCode": "#EDE2ED"
+	},
+	{
+		"ColorName": "White Lavender",
+		"DMCCode": "24",
+		"HexCode": "#E0D7EE"
+	},
+	{
+		"ColorName": "Lavender Ultra Light",
+		"DMCCode": "25",
+		"HexCode": "#DAD2E9"
+	},
+	{
+		"ColorName": "Lavender Pale",
+		"DMCCode": "26",
+		"HexCode": "#D7CAE6"
+	},
+	{
+		"ColorName": "White Violet",
+		"DMCCode": "27",
+		"HexCode": "#F0EEF9"
+	},
+	{
+		"ColorName": "Eggplant Medium Light",
+		"DMCCode": "28",
+		"HexCode": "#9086A9"
+	},
+	{
+		"ColorName": "Eggplant",
+		"DMCCode": "29",
+		"HexCode": "#674076"
+	},
+	{
+		"ColorName": "Blueberry Medium Light",
+		"DMCCode": "30",
+		"HexCode": "#7D77A5"
+	},
+	{
+		"ColorName": "Blueberry",
+		"DMCCode": "31",
+		"HexCode": "#50518D"
+	},
+	{
+		"ColorName": "Blueberry Dark",
+		"DMCCode": "32",
+		"HexCode": "#4D2E8A"
+	},
+	{
+		"ColorName": "Fuschia",
+		"DMCCode": "33",
+		"HexCode": "#9C599C"
+	},
+	{
+		"ColorName": "Fuschia Dark",
+		"DMCCode": "34",
+		"HexCode": "#7D3064"
+	},
+	{
+		"ColorName": "Fuschia Very Dark",
+		"DMCCode": "35",
+		"HexCode": "#46052D"
+	}
+]

@@ -1,0 +1,21 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <script src="wasm_exec.js"></script>
+    <script>
+        const go = new Go();
+        WebAssembly.instantiateStreaming(fetch("dmc.wasm"), go.importObject).then((result) => {
+            go.run(result.instance);
+        });
+
+        function getColorByHex() {
+            let hex = getHexByDMC(document.getElementById("dmc").value);
+            document.body.style.backgroundColor = hex;
+        }
+    </script>
+</head>
+<body>
+<input id="dmc"/>
+<input type="button" value="Show color" onclick="getColorByHex()"/>
+</body>
+</html>
